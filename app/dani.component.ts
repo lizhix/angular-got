@@ -20,7 +20,7 @@ export class DaniComponent implements OnInit {
 
     ngOnInit(): void {
 
-        this.slash = "Unite the Iron Throne";
+        this.slash = "Unite the Gold Throne";
         this.destiny = `Put Cersi's head on a spike`;
         this.weapon = this.weaponService.sword("Stab");
 
